@@ -4,7 +4,7 @@ Welcome to my **Realme GT 6T 3D Visualization Project!**
 This is an interactive, real-time 3D model of the **Realme GT 6T smartphone**, created entirely using **Three.js (r166)** — with no external 3D models or textures.
 
 🌐 **Live Demo:**  
-👉 [View the 3D Model](https://alanjoseph77.github.io/RealmeGT_6T_3dModel/realme.html)
+👉 [View the 3D Model](https://alanjoseph77.github.io/RealmeGT_6T_3dModel/)
 
 ---
 
